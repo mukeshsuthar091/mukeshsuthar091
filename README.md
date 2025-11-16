@@ -105,7 +105,3 @@
 <h2 align="left"></h2>
 
 ###
-
-<img src="https://raw.githubusercontent.com/mukeshsuthar091/mukeshsuthar091/output/snake.svg" alt="Snake animation" />
-
-###
